@@ -1,4 +1,7 @@
-/* Dillon Mabry */
+/* Dillon Mabry 
+Program to generate a sequence of fibonacci numbers by using the Big Integer class in Java. The program writes 
+the entire sequence to a generated text file line by line for easy printing.
+*/
 package testapps;
 
 import java.io.BufferedWriter;
