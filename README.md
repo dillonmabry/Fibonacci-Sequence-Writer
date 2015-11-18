@@ -9,9 +9,9 @@ A key feature of this project highlights the usefulness of the memory storage Ja
 A functioning fibonacci generator up to as many values as the PC of the user can handle. I have personally tested generated file sizes up to 100,000 input size.
 
 ####Known Glitches
--Exceptions may occur with improper user input of values
--Unknown files may cause unstable results
--*Extremely large input values (those greater than 100,000) will almost certainly guarantee Heap Space exception*
+- Exceptions may occur with improper user input of values
+- Unknown files may cause unstable results
+- *Extremely large input values (those greater than 100,000) will almost certainly guarantee Heap Space exception*
 
 **My Links**
 
